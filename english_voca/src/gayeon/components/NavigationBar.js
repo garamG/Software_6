@@ -1,7 +1,7 @@
 import React from 'react';
 import { HiOutlineUserCircle,HiOutlineUsers,HiOutlineBookOpen,HiTrendingUp } from "react-icons/hi";
 import { Link } from 'react-router-dom';
-//import '../styles/Header.css';
+//import '../styles/NavigationBar.css';
 
 function NavigationBar() {
   return (
